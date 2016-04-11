@@ -231,7 +231,7 @@
             "metricName": "CpuPercentage"
           },
           "operator": "GreaterThan",
-          "threshold": 95,
+          "threshold": 60,
           "windowSize": "PT15M"
         },
         "action": {
